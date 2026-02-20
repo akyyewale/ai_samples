@@ -1,2 +1,1 @@
-testing some of AI projects
-testing some of AI projects
+This is my work with AI using some course work material from Ed Donners Class for LLM Engineering.
